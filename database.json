@@ -1,0 +1,28 @@
+[
+  {
+    "name": "uuid",
+    "version": "1.0.0",
+    "description": "UUID generation library for Prism",
+    "main": "src/uuid.prism",
+    "author": "toaha63",
+    "license": "MIT",
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/toaha63/uuid"
+    }
+  },
+  {
+    "name": "random-gen",
+    "version": "1.0.0",
+    "description": "Random number generation utilities",
+    "main": "src/random-gen.prism",
+    "author": "toaha63",
+    "license": "MIT",
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/toaha63/random-gen"
+    }
+  }
+]
