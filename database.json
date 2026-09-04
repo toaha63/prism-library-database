@@ -2,6 +2,7 @@
   {
     "name": "uuid",
     "version": "1.0.0",
+    "available-versions" : ["1.0.0"],
     "description": "UUID generation library for Prism",
     "main": "src/uuid.prism",
     "author": "toaha63",
@@ -15,6 +16,7 @@
   {
     "name": "random-gen",
     "version": "1.0.0",
+    "available-versions" : ["1.0.0"],
     "description": "Random number generation utilities",
     "main": "src/random-gen.prism",
     "author": "toaha63",
